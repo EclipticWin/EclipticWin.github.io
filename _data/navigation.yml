@@ -1,11 +1,11 @@
 # The following is the order of the links in the header of the website.
 
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
